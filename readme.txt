@@ -23,5 +23,5 @@ Heatsink_TO220-3_30x25x25.pretty\Heatsink_TO220-3_30x25x25-assembly.kicad_mod
 
 
 Example: C:\Users\user\Documents\KiCAD Files\MyKiCADLibrary\Heatsink_TO220-3_30x25x25\Heatsink_TO220-3_30x25x25.3dshapes
-	 C:\Users\jimmi\Documents\KiCAD Files\MyKiCADLibrary\Heatsink_TO220-3_30x25x25\Heatsink_TO220-3_30x25x25-LM7805.3dshapes
+	 C:\Users\user\Documents\KiCAD Files\MyKiCADLibrary\Heatsink_TO220-3_30x25x25\Heatsink_TO220-3_30x25x25-LM7805.3dshapes
 	 C:\Users\user\Documents\KiCAD Files\MyKiCADLibrary\Heatsink_TO220-3_30x25x25\Heatsink_TO220-3_30x25x25.pretty
